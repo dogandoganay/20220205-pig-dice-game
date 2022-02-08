@@ -1,5 +1,6 @@
 # 20220205-pig-dice-game
 Dealing with local and global context, status controls, primitive logic implementation.
+Additionally, I wanted to use a more beautiful replacement rather than using basic JavaScript popups, so I used swal2 (SweetAlert2) library for that.
 
 ### Pig (dice game) 
 
